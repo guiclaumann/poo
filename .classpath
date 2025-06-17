@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="desafio_1_poo_GCS/src"/>
+	<classpathentry kind="src" path="desafio_2_poo_GCS/src"/>
+	<classpathentry kind="src" path="poo/desafio_1_poo_GCS/src"/>
+	<classpathentry kind="src" path="poo/desafio_2_poo_GCS/src"/>
+	<classpathentry kind="output" path="desafio_1_poo_GCS/bin"/>
+</classpath>
